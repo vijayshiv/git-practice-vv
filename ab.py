@@ -1,2 +1,2 @@
 print('hii')
-sddsdsd
+print(5)
